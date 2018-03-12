@@ -2,7 +2,7 @@
 //This is my custom php
 /*
 Plugin Name:   Dennis' Custom CSS and JS Plugin
-Plugin URI:    https://github.com/GhostInTheMachines
+Plugin URI:    https://github.com/GhostInTheMachines/custom-css-and-js
 Description:   Add a custom CSS stylesheet and JavaScript file to WordPress
 Version:       1.0
 Author:        Dennis Kimble
