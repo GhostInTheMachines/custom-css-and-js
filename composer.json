@@ -3,5 +3,6 @@
   "description": "This plugin is a suitcase for my Wordpress custom css and js",
   "require": {
     "php": "^5.6 || ^7.0"
-  }
+  },
+  "license": "MIT"
 }
